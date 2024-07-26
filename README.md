@@ -2,10 +2,10 @@ Este é o meu primeiro portfólio desenvolvido utilizando HTML, CSS e JavaScript
 
 
 VERSÃO-WEB
-![image](https://github.com/gxstavoqy/portfolio/assets/162361215/20949ec5-b761-4446-870f-ec2e4eb92189)
-![image](https://github.com/gxstavoqy/portfolio/assets/162361215/2e63c0a2-ff21-46e9-b93f-44e80185908f)
-
+![Screenshot_1](https://github.com/user-attachments/assets/db62721f-f448-4ba4-b620-d4f297088ecd)
+![Screenshot_2](https://github.com/user-attachments/assets/3f5546c2-789f-40b1-a20d-f1b8de9dee23)
 VERSÃO MOBILE
 
-![iPhone-13-PRO-127 0 0 1](https://github.com/gxstavoqy/portfolio/assets/162361215/211dfa41-f51e-4d4d-b026-b22edad96366) ![image](https://github.com/gxstavoqy/portfolio/assets/162361215/9b922e11-4c65-4d77-98cc-668f12f03b5d)
+![iPhone-13-PRO-127 0 0 1](https://github.com/user-attachments/assets/1ba78d53-2030-497e-bcf7-4553663d9e8a) ![iPhone-13-PRO-127 0 0 1 (1)](https://github.com/user-attachments/assets/67969c43-e08d-4200-94f9-63ded06893ed)
+
 
